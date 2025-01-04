@@ -1,5 +1,3 @@
 # leet-code-quests
 
-My experience in leetcode
-
-Some problems were solved without any help (stackoverflow, gpt's etc.), some not.
+Here i collect my solutions for problems from Leetcode. Some problems were solved without any help (stackoverflow, gpt's etc.), some not.
